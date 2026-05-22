@@ -17,6 +17,9 @@ public class FisherEletric {
 
         modContainer.registerConfig(ModConfig.Type.SERVER, Config.SPEC);
 
-        NeoForge.EVENT_BUS.register(new ModEvents());
+        ItemEventHandler handler = new ItemEventHandler();
+        handler.register(new NetBehavior());
+        handler.register(new RodBehavior());
+        NeoForge.EVENT_BUS.register(handler);
     }
 }

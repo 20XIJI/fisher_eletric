@@ -5,9 +5,9 @@ license="MIT"
 [[mods]]
 modId="${mod_id}"
 version="${mod_version}"
-displayName="Fisher Eletric"
+displayName="Electric Fisher"
 authors="fisher_team"
-description="A NeoForge mod that adds an electric fishing rod. Hold it near water to automatically generate fishing loot."
+description="Auto-fishing tools for NeoForge. Hold near water to automatically generate fishing loot or spawn live fish."
 
 [[dependencies.${mod_id}]]
 modId="neoforge"

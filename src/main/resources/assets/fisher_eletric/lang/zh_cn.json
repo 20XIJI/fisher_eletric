@@ -1,4 +1,5 @@
 {
-  "item.fisher_eletric.electric_fishing_rod": "新能源钓鱼竿",
-  "itemGroup.fisher_eletric": "新能源钓鱼"
+  "item.fisher_eletric.electric_fishing_rod": "新能源渔网",
+  "item.fisher_eletric.fish_catcher_rod": "新能源鱼竿",
+  "itemGroup.fisher_eletric": "新能源渔业"
 }

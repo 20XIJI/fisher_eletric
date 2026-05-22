@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SSS",
+    "SFS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:string" },
+    "F": { "item": "minecraft:fishing_rod" }
+  },
+  "result": {
+    "id": "fisher_eletric:electric_fishing_rod",
+    "count": 1
+  }
+}
